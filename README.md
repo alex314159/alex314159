@@ -1,6 +1,8 @@
 Portfolio manager and quant developer working in emerging markets fixed income and credit.
 By day I run blended EM mandates spanning hard currency, local currency, and corporate credit.
-Outside of that I build the tooling I wish existed.
+Outside of that I build the tooling I wish existed — most recently [tabblio](https://tabblio.com), a privacy-focused data analysis tool.
+
+
 
 ## What I build
 
