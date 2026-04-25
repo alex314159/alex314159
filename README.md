@@ -1,5 +1,3 @@
-# Alex
-
 Portfolio manager and quant developer working in emerging markets fixed income and credit.
 By day I run blended EM mandates spanning hard currency, local currency, and corporate credit.
 Outside of that I build the tooling I wish existed.
@@ -19,6 +17,7 @@ development workflow.
 - Quantitative fixed income: spread modelling, total return, credit analysis
 - LLM integration into investment workflows
 - Functional programming in finance
+- Systematic trading
 
 ## Get in touch
 
